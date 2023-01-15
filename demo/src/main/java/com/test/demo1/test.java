@@ -8,5 +8,6 @@ public class test {
         System.out.println("master merge commit");
         System.out.println("hot-fix merge commit");
         System.out.println("commit");
+        System.out.println("commit2")
     }
 }
